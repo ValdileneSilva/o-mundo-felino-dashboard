@@ -89,16 +89,18 @@ Inclua os seguintes elementos:
 ---
 
 ## 📸 Preview do Dashboard
-*(Adicione aqui a imagem do seu dashboard: `![Preview](preview_dashboard.png)`)*
+<img width="421" height="632" alt="image" src="https://github.com/user-attachments/assets/1a8efaa9-4cac-4335-8950-ce2aada7ec65" />
 
 ---
 
 ## 📎 Link para o Dashboard
-[Acesse o Dashboard no Looker Studio](INSIRA_AQUI_SEU_LINK)
+[[Acesse o Dashboard no Looker Studio](INSIRA_AQUI_SEU_LINK)](https://lookerstudio.google.com/reporting/23374a29-55b7-4bf0-8c9a-b97dee63c266/page/K8RUF?s=voEct50Pb4g)
 
 ---
 
 ## 📚 Aprendizados
 ✔️ Integração de APIs em dashboards.
+
 ✔️ Boas práticas em **Data Visualization**.
+
 ✔️ Uso do **Looker Studio** para dashboards interativos.
